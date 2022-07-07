@@ -1,0 +1,13 @@
+{
+  "name": "koa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compose": "node ./example/compose.js",
+    "koa": "node ./example/koa.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
